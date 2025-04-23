@@ -4,7 +4,7 @@
 
 UI 부분에서 테일즈샵의 '썸썸편의점'을 많이 참고하였습니다.
 
-# Download [https://drive.google.com/drive/folders/1iJCtnEp_Y0m58-gP3vWAn6Kqxxj6f3ae?usp=drive_link]
+# [Download] (https://drive.google.com/drive/folders/1iJCtnEp_Y0m58-gP3vWAn6Kqxxj6f3ae?usp=drive_link)
 
 위의 링크를 통해 개발코드, 소스, 실행파일을 다운받으실 수 있습니다.
 
